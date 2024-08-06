@@ -1,2 +1,0 @@
-login credentials contain in this file``
-ok
